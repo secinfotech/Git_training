@@ -6,3 +6,4 @@ Some text are added in the develop branch file for testing the merge concept.
 Git revert commit 1
 This is comparison lecture 1
 
+This is stash demo, change in file 1
