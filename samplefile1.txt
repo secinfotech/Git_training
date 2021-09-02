@@ -1,1 +1,5 @@
 This is sample file 1
+
+
+
+Some text are added in the develop branch file for testing the merge concept.
