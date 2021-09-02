@@ -1,5 +1,8 @@
 This is sample file 1
 
 
-
 Some text are added in the develop branch file for testing the merge concept.
+
+Git revert commit 1
+This is comparison lecture 1
+
