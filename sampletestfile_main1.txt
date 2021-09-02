@@ -1,1 +1,2 @@
 sample
+This is stash demo, change in file main
